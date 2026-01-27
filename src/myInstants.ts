@@ -144,5 +144,13 @@ export const myInstantsDefinition = {
       name: "Coconut Song",
       filename: "coconut-song.mp3",
     },
+    {
+      name: "Technologiaa",
+      filename: "technoloyia-technologia-tecnologia.mp3",
+    },
+    {
+      name: "Nice tits, i mean shot",
+      filename: "nice-tits-i-mean-shot.mp3",
+    },
   ],
 };
