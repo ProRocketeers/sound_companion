@@ -45,7 +45,7 @@ jobs:
         with:
           version: v0.18.10
           verb: call
-          module: git@github.com:prorocketeers/dagger-pipelines.git/deploy
+          module: git@github.com:prorocketeers/dagger-pipelines.git/deploy@v0.3.3
           args: >-
             deploy
             --tag ${{ github.sha }}
